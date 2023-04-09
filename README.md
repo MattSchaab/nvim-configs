@@ -3,6 +3,22 @@ Install this repo on
 ~/.config/nvim
 ```
 
+Run the following command
+```
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\
+ ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+```
+
+Remeber to source the init files
+```
+:so
+```
+
+Sync Packages
+```
+PackerSync
+```
+
 #Commands generated
 
 ## BASIC
