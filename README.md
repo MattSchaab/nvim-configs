@@ -16,7 +16,7 @@ Remeber to source the init files
 
 Sync Packages
 ```
-PackerSync
+:PackerSync
 ```
 
 #Commands generated
