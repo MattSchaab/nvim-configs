@@ -1,2 +1,3 @@
-require("fox.remap")
 require("fox.set")
+require("fox.remap")
+require("packer")
